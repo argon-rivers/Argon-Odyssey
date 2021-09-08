@@ -1,2 +1,2 @@
 # Argon-Odyssey
-My first project. 
+My first development activity since giving up COBOL in 2001 
